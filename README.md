@@ -22,7 +22,7 @@ python main.py
 
 ## Результаты
 
-| YOLO                                                                                 | Faster RCNN                                                                 |
-|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|
-| [Метрики YOLO](result/yolo/metrics/freeze_metrics.png) | [Метрики Faster RCNN](result/faster_rcnn/metrics/freeze_metrics.png "123")  |
+| YOLO                                                    | Faster RCNN                                                                 |
+|:--------------------------------------------------------|:----------------------------------------------------------------------------|
+| ![Метрики YOLO](result/yolo/metrics/freeze_metrics.png) | ![Метрики Faster RCNN](result/faster_rcnn/metrics/freeze_metrics.png "123") |
 
